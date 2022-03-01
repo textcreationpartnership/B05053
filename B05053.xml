@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royall rendezvous: or, The magnificence of His Majesties fleet.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05053</idno>
+            <idno type="STC">Wing R2152</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[93]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[179]</idno>
+            <idno type="EEBO-CITATION">99885021</idno>
+            <idno type="PROQUEST">ocm99885021</idno>
+            <idno type="VID">182848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182848)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[94]; A4:2[180])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royall rendezvous: or, The magnificence of His Majesties fleet.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.W.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "BLess me! Where am I? To what Ruine ..."</note>
+                  <note>"With allowance."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain. --  Royal Navy --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182848:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <head>THE ROYALL RENDEZVOUS: Or, <hi>The Magnificence</hi> of His Majeſties Fleet.</head>
+            <l>BLeſs me! Where am I? To what Ruine bent?</l>
+            <l>I ſhou'd be by this Moving Wood, in <hi>Kent?</hi>
+            </l>
+            <l>Methought I ſaw a <hi>City</hi> on the Seas,</l>
+            <l>And by the Steeples, told the Pariſhes;</l>
+            <l>There might be (as I gueſs) twice Seventy Seven,</l>
+            <l>Whoſe <hi>Babel-Towers</hi> were climbing up to Heaven:</l>
+            <l>Their Language was Confuſion; And, their Breath</l>
+            <l>Darken'd the Aire with Sentences of Death.</l>
+            <l>They ſeem'd to me a ſtand of Pikes, or Trees</l>
+            <l>That over-top the humble Copices.</l>
+            <l>With theſe high Towering Maſtes, our Muſe begins;</l>
+            <l>And where ſuch <hi>Sign-poſts</hi> are, What are the <hi>Innes?</hi>
+            </l>
+            <l>Thoſe <hi>Trojan</hi> Horſes, form'd by <hi>Palla's</hi> Charmes,</l>
+            <l>Not ſtuft with Garbidge, but with Men and Armes.</l>
+            <l>Thoſe <hi>Wooden</hi> Mountains on the Wavie Maine,</l>
+            <l>As if the <hi>Gyants</hi> wou'd Fight <hi>Jove</hi> again.</l>
+            <l>If <hi>Philip</hi> King of <hi>Spain</hi> did once call His</l>
+            <l>Invincible: What wou'd he think of This?</l>
+            <l>Away with <hi>Xerxes</hi> Chaines, fond Foolery;</l>
+            <l>Tis ſuch a Fleet as this Fetters the Sea:</l>
+            <l>You wou'd have thought that the Tumultuous Flood</l>
+            <l>Was not ſo much an <hi>Ocean,</hi> as a Wood:</l>
+            <l>And that vaſt Womb of <hi>Ships, Foreſt of Dean,</hi>
+            </l>
+            <l>Stub'd by the <hi>Rebells,</hi> was grown up agen.</l>
+            <l>A Floating-<hi>Iſland,</hi> a Realm did ſurpaſs</l>
+            <l>
+               <hi>Denmark</hi> and <hi>Dantzick</hi> for your Choice of Maſts.</l>
+            <l>I'm confident next Moneth we ſhall Advance</l>
+            <l>
+               <hi>May-Poles</hi> enough to make the <hi>Dutchmen</hi> Dance:</l>
+            <l>Did you but ſee our-<hi>Frigats,</hi> you wou'd ſwear,</l>
+            <l>
+               <hi>Norway</hi> had left ſcarce either <hi>Pitch,</hi> or <hi>Tarr.</hi>
+            </l>
+            <l>For <hi>Lead,</hi> you wou'd ſuppoſe here <hi>Darby</hi> was;</l>
+            <l>For <hi>Iron, Bilboa;</hi> and <hi>Corinth</hi> for <hi>Braſs.</hi>
+            </l>
+            <l>And for Proviſion, you wou'd think you were</l>
+            <l>In <hi>Egypt,</hi> to behold the <hi>Corne</hi> that's here.</l>
+            <l>
+               <hi>Brandy,</hi> although ſufficient, we Decline;</l>
+            <l>
+               <hi>Spirits</hi> of <hi>Men</hi> are here, give <hi>Cowards</hi> Wine.</l>
+            <l>And, ſay, <hi>Seven Provinces</hi> United be;</l>
+            <l>Each <hi>Ship</hi> of ours is a <hi>Whole Colonie.</hi>
+            </l>
+            <l>And Lofty Waves, that as <hi>Spectators,</hi> crowd;</l>
+            <l>Honour'd with ſuch a Fleet, may well be proud.</l>
+            <l>Whilſt, both the <hi>VVaters,</hi> and the <hi>VVinds,</hi> agree,</l>
+            <l>To ſwell our Sailes into a Tympanie,</l>
+            <l>What ſhall we not be able then to do,</l>
+            <l>That have GREAT <hi>CESAR,</hi> and His Fortunes too!</l>
+            <l>And, Superadd to this, a CAUSE ſo Juſt;</l>
+            <l>We might to <hi>Providence</hi> and <hi>Cockbotes</hi> truſt:</l>
+            <l>But, Bleſt be Heaven, we have a Royall Fleet,</l>
+            <l>Will make thoſe <hi>Picture-Mongers</hi> Crouch to ſeer.</l>
+            <l>Talk not of <hi>Tempus eſt, Bacon's</hi> an Aſs;</l>
+            <l>Our <hi>VVooden VValls</hi> are ſtronger than his <hi>Braſs.</hi>
+            </l>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>With Allowance.</p>
+         </div>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> T.W. 1672.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
